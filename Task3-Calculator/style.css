@@ -5,27 +5,27 @@
   --body-bg2:   #b21f1f;
   --body-bg3:   #fdbb2d;
 
-  --calc-bg:    #1565c0;       /* main blue body */
-  --calc-dark:  #0d47a1;       /* darker blue */
-  --calc-light: #1e88e5;       /* lighter blue */
-  --calc-shine: #42a5f5;       /* highlight blue */
+  --calc-bg:    #1565c0;       
+  --calc-dark:  #0d47a1;       
+  --calc-light: #1e88e5;       
+  --calc-shine: #42a5f5;       
 
-  --display-bg: #e3f2fd;       /* light blue-white display */
+  --display-bg: #e3f2fd;       
   --display-text: #0d47a1;
 
-  --btn-num:    #1976d2;        /* number buttons */
+  --btn-num:    #1976d2;        
   --btn-num-h:  #2196f3;
   --btn-num-t:  #ffffff;
 
-  --btn-op:     #0d47a1;        /* operator buttons */
+  --btn-op:     #0d47a1;        
   --btn-op-h:   #1565c0;
   --btn-op-t:   #ffffff;
 
-  --btn-func:   #1565c0;        /* AC, +/- */
+  --btn-func:   #1565c0;        
   --btn-func-h: #1976d2;
   --btn-func-t: #ffffff;
 
-  --btn-eq:     #0a3d91;        /* equals */
+  --btn-eq:     #0a3d91;        
   --btn-eq-h:   #1565c0;
 
   --shadow:     rgba(0,0,0,0.35);
